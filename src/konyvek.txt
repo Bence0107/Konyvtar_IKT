@@ -1,0 +1,21 @@
+Cím;Szerző;Műfaj;Kiadás éve;Kölcsönözhető-e
+Don Quijote;Miguel de Cervantes;Kalandregény;1605;false
+Büszkeség és balítélet;Jane Austen;Romantikus regény;1813;false
+A nyomorultak;Victor Hugo;Történelmi regény;1862;true
+Bűn és bűnhődés;Fjodor Dosztojevszkij;Lélektani regény;1866;true
+Anna Karenina;Lev Tolsztoj;Realista regény;1877;false
+Drakula;Bram Stoker;Gótikus horror;1897;true
+A kis herceg;Antoine de Saint-Exupéry;Mese;1943;true
+1984;George Orwell;Disztópia;1949;false
+A nap szerelmese;Irving Stone;Életrajzi regény;1934;true
+A nagy Gatsby;F. Scott Fitzgerald;Társadalmi regény;1925;true
+Ne bántsátok a feketerigót!;Harper Lee;Társadalmi regény;1960;true
+Dűne;Frank Herbert;Sci-fi;1965;false
+A Gyűrűk Ura;J. R. R. Tolkien;Fantasy;1954;false
+A hobbit;J. R. R. Tolkien;Fantasy;1937;true
+Harry Potter és a bölcsek köve;J. K. Rowling;Ifjúsági regény;1997;true
+A Da Vinci-kód;Dan Brown;Krimi;2003;false
+Twilight – Alkonyat;Stephenie Meyer;Romantikus regény;2005;true
+Az éhezők viadala;Suzanne Collins;Disztópia;2008;false
+A lány a vonaton;Paula Hawkins;Pszichológiai thriller;2015;false
+A szolgálólány meséje;Margaret Atwood;Disztópia;1985;true
